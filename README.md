@@ -1,4 +1,4 @@
-# [Project Name]
+mohsinkhawaja.com
 
 This project, **mohsin-website**, is a personal website designed to showcase my professional portfolio and technical skills. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
